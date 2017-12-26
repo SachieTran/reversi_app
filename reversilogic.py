@@ -1,7 +1,4 @@
-# reversilogic.py
-#
-# Created by: Tran Tran
-#
+
 #
 # This program includes the game logic component allowing two players play the
 # Game of Reversi, store and maintain the current state of the game.
